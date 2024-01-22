@@ -1,0 +1,1 @@
+This project involves the implementation of a Convolutional Neural Network (CNN) to classify images of dogs and cats. The CNN is trained on a dataset containing labeled images of both animals and is designed to predict whether a given image contains a dog or a cat.
